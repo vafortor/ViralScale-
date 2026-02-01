@@ -1,0 +1,7 @@
+{
+  "name": "ViralScale - The Ultimate Growth Platform",
+  "description": "A comprehensive business marketing platform helping startups and SMEs go viral, capture leads, and scale revenue through referral loops, smart analytics, and AI-powered marketing tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
